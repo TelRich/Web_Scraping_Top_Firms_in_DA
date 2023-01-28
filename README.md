@@ -1,4 +1,5 @@
 ### Summary
+### [View Notebook](https://nbviewer.org/github/TelRich/Web_Scraping_Top_Firms_in_DA/blob/main/reference.ipynb)
 
 ![](newplot.png)
 
