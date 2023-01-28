@@ -1,5 +1,7 @@
 ### Summary
 
+![](newplot.png)
+
 * The webpage from Goodfirm was succesfully accessed and downloaded using Request library. 
 * BeautifulSoup was used to locate and extract the details from the downloaded html file
 * The extracted details was converted to data frame using Pandas.
